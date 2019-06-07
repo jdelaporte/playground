@@ -10,9 +10,13 @@ So, there is no reason (at least an apparent one) to use anything but an eternal
 1. Make a change in your working directory
 2. Stage it (`git ...`)
 3. Commit (`git ...`)
+1. Repeat
+
 
 ### Pros
 + Unlimited "undo"
++ Another Pro
+
 
 ### Cons
 - No backups
