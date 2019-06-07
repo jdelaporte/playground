@@ -64,7 +64,7 @@ Let's try it out with the following exercise:
 
 That's fantastic! A few notes before we go further:
 
-1. If you started working on a NEW file that has not been committed to the repository, use the `-u` flag: `git stash -u`.
+1. If you started working on a NEW file that is not tracked in the repository, use the `-u` flag: `git stash -u`.
 2. If you need to stash the file that Git ignores, use the `-a` flag: `git stash -a`.
 3. If you would like to provide a message for the stash, use the full syntax of the `git stash` command:
 
